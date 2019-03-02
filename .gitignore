@@ -1,0 +1,8 @@
+.vscode
+JAFFE
+additional-train-set
+train-set
+test-set
+*.csv
+.DS_Store
+__pycache__
